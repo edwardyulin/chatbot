@@ -1,0 +1,47 @@
+{"majors": [
+      { "tag": 0,
+        "patterns": ["History", "HIST", "Geography", "GROG", "Historical", "Ancient", "America", "American History", "World", "World Hisotry", "Canada", "Canadian History"],
+        "output": 0
+      },
+      { "tag": 0.1,
+        "patterns": ["BIOL", "Bio", "Biology", "Virology", "VIRO", "Medicine", "PHARM", "Pharmacology", "Pharmacist"],
+        "output": 0.1
+      },
+      { "tag": 0.2,
+        "patterns": ["PSYC", "Psych", "Psychology", "Human Psychology", "Psychological science", "Neuroscience", "Behavioural Neuroscience", "Neurosci"],
+        "output": 0.2
+      },
+      { "tag": 0.3,
+        "patterns": ["Food", "Land", "Forestry", "System"],
+        "output": 0.3
+      },
+      { "tag": 0.4,
+        "patterns": ["Business", "Accounting", "ECON", "BUSI", "Economics", "Actuary Science", "Actuary", "Sauder", "International Business"],
+        "output": 0.4
+      },
+      { "tag": 0.5,
+        "patterns": ["Cognition", "Cognitive Science"],
+        "output": 0.5
+      },
+      { "tag": 0.6,
+        "patterns": ["CHEM", "Chemistry"],
+        "output": 0.6
+      },
+      { "tag": 0.7,
+        "patterns": ["MATH", "Mathamatics"],
+        "output": 0.7
+      },
+      { "tag": 0.8,
+        "patterns": ["CPSC", "CS", "Comp Sci", "Computer Science"],
+        "output": 0.8
+      },
+      { "tag": 0.9,
+        "patterns": ["PHYS", "Physics", "Arts", "Theatre", "Theater", "Theater art", "Visual art", "Drawing", "Painting", "Photography"],
+        "output": 0.9
+      },
+      { "tag": 1,
+        "patterns": ["Engi", "Engineering", "Software", "Hardward", "Computer", "Mechatronic", "Nanotronic", "Applied science"],
+        "output": 1
+      }
+    ]
+}
